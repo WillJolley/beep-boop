@@ -1,3 +1,38 @@
+# _beep-boop_
+
+#### By _Will Jolley_
+
+#### _A number censoring webpage_
+
+## Technologies Used
+
+* _Javascript_
+* _HTML_
+
+
+## Description
+
+_beep-boop is a webpage that invites users to input a number, and returns to them a comprehensive list of every integer from 0 to that number, with an exciting twist: any number that contains a 1 will be replaced with a "Beep!" Any number containing a 2 will be replaced with a "Boop!" And any number containing a 3 will be replaced with the phrase "Won't you be my neighbor?"_
+
+## Setup/Installation Requirements
+
+* _Clone this repository to your desktop._
+* _Navigate to the top level of the directory._
+* _Open index.html in your browser.__
+
+## Known Bugs
+
+N/A
+
+## License
+
+_e-mail me at yeswilljolley@gmail.com with any issues, questions, ideas, concerns._
+
+Copyright (c) _2023_ _Will Jolley_
+
+
+TDD
+
 Describe: beepBoop()
 
 Test: "It should return an array of numbers from 0 to the user's inputted number."

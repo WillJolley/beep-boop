@@ -19,9 +19,9 @@ function beepBoop(input) {
     if (numString.includes("3")) {
       secArray.push(" Won't you be my neighbor?");
     } else if (numString.includes("2")) {
-      secArray.push(" boop");
+      secArray.push(" Boop!");
     } else if (numString.includes("1")) {
-      secArray.push(" beep");
+      secArray.push(" Beep!");
     } else secArray.push(" " + numString);
   });
   console.log(secArray);
