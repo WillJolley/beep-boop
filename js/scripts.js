@@ -9,7 +9,6 @@ function beepBoop(input) {
   while (number >= 0) {
     array.push(+ number--);
   };
-  console.log(array);
 
   const arrayRev = array.reverse();
 
@@ -24,7 +23,6 @@ function beepBoop(input) {
       secArray.push(" Beep!");
     } else secArray.push(" " + numString);
   });
-  console.log(secArray);
   return secArray;
   
 };

@@ -1,0 +1,27 @@
+body {
+  background-color: blue;
+}
+
+form {
+  background-color: yellowgreen;
+  padding: 20px;
+  margin: 10px;
+  border-bottom: solid red;
+}
+
+button {
+  background-color: aqua;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: crimson;
+}
+
+p {
+  background-color: yellow;
+  line-height: 32px;
+  border: solid red;
+}
